@@ -9,6 +9,6 @@ python main.py
 Ou pode executar usando PyCharm.
 
 ## Controles
-W - Pula
-A - Anda para esquerda
-D - Anda para direita
+W - Pula <br/>
+A - Anda para esquerda <br/>
+D - Anda para direita <br/>
